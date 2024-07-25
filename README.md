@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left"> Hi, I’m @MatheusRodriguesdaSilveira<br>📚 👀 I’m interested in programming area<br>🌱 I’m currently learning Html, Css, JavaScript, React Js, Tailwind<br></p>
+<p align="left">👋 Hi, I’m @MatheusRodriguesdaSilveira<br>📚 👀 I’m interested in programming area<br>🌱 I’m currently learning Html, Css, JavaScript, React Js, Tailwind<br></p>
 
 ###
 
