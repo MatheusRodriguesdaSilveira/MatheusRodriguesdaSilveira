@@ -10,10 +10,6 @@
 
 <h2 align="left">About me</h2>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="https://www.linkedin.com/in/matheus-rodrigues-da-silveira/" />
-</div>
-
 ###
 
 <p align="left">👋 Hi, I’m @MatheusRodriguesdaSilveira<br>📚 I’m interested in programming area<br>🌱 I’m currently learning Html, Css, JavaScript, React Js, Tailwind<br></p>
