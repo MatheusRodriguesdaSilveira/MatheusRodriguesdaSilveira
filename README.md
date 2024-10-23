@@ -1,13 +1,12 @@
 # 💫 About Me:
 Olá! 👋 Eu sou Matheus Rodrigues, um Desenvolvedor FullStack com 19 anos e atualmente estou em busca de novas oportunidades na área de tecnologia. Tenho experiência prática no desenvolvimento de APIs, criação de sites responsivos e e-commerces otimizados, sempre com foco em oferecer experiências de alta qualidade aos usuários.
 
-O que eu faço:<br>
-📌Desenvolvimento Frontend: Criação de interfaces modernas e responsivas com HTML, CSS, JavaScript e React.<br><br>
-📌Desenvolvimento Backend: Implementação de APIs robustas e escaláveis usando Node.js, Express, e integração com bancos de dados.<br><br>
-📌E-commerce: Desenvolvimento de plataformas de venda online otimizadas para performance e SEO.<br><br>
+🐱‍👤O que eu faço:<br>
+📌Desenvolvimento Frontend: Criação de interfaces modernas e responsivas com HTML, CSS, JavaScript e React.<br>
+📌Desenvolvimento Backend: Implementação de APIs robustas e escaláveis usando Node.js, Express, e integração com bancos de dados.<br>
+📌E-commerce: Desenvolvimento de plataformas de venda online otimizadas para performance e SEO.<br>
 📌UX/UI: Foco em proporcionar interfaces intuitivas e experiências agradáveis.<br><br>
-Estou sempre aprimorando minhas habilidades e adoro contribuir para o sucesso de projetos inovadores. Se quiser saber mais sobre o meu trabalho, fique à vontade para explorar meus projetos! 🚀<br><br>
-
+Estou sempre aprimorando minhas habilidades e adoro contribuir para o sucesso de projetos inovadores. Se quiser saber mais sobre o meu trabalho, fique à vontade para explorar meus projetos! 🚀<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-rodrigues-da-silveira/) 
