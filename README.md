@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Meu nome é Matheus e tenho 19 anos e sou Desenvolvedor FullStack. Estou em busca de novas oportunidades na área de tecnologia, onde possa aplicar minhas habilidades técnicas e continuar aprimorando-as, enquanto contribuo para o sucesso e inovação dos projetos. Tenho experiência prática na criação de APIs, desenvolvimento de sites responsivos e e-commerces otimizados, sempre focado em proporcionar experiências de alta qualidade para os usuários. Fique à vontade para explorar meus projetos e conhecer mais sobre meu trabalho! 🚀<br><br><br>
+Olá! 👋 Eu sou Matheus Rodrigues, um Desenvolvedor FullStack com 19 anos e atualmente estou em busca de novas oportunidades na área de tecnologia. Tenho experiência prática no desenvolvimento de APIs, criação de sites responsivos e e-commerces otimizados, sempre com foco em oferecer experiências de alta qualidade aos usuários.
+
+O que eu faço:<br>
+📌Desenvolvimento Frontend: Criação de interfaces modernas e responsivas com HTML, CSS, JavaScript e React.<br><br>
+📌Desenvolvimento Backend: Implementação de APIs robustas e escaláveis usando Node.js, Express, e integração com bancos de dados.<br><br>
+📌E-commerce: Desenvolvimento de plataformas de venda online otimizadas para performance e SEO.<br><br>
+📌UX/UI: Foco em proporcionar interfaces intuitivas e experiências agradáveis.<br><br>
+Estou sempre aprimorando minhas habilidades e adoro contribuir para o sucesso de projetos inovadores. Se quiser saber mais sobre o meu trabalho, fique à vontade para explorar meus projetos! 🚀<br><br>
 
 
 ## 🌐 Socials:
