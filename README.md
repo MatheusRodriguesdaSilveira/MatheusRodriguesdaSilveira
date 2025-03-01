@@ -1,4 +1,4 @@
-## About Me
+## 👨‍💻About Me
 Olá! 👋 Eu sou Matheus Rodrigues, um Desenvolvedor FullStack com 19 anos e atualmente estou em busca de novas oportunidades na área de tecnologia. Tenho experiência prática no desenvolvimento de APIs, criação de sites responsivos e e-commerces otimizados, sempre com foco em oferecer experiências de alta qualidade aos usuários.
 
 🐱‍👤O que eu faço:<br>
@@ -8,11 +8,11 @@ Olá! 👋 Eu sou Matheus Rodrigues, um Desenvolvedor FullStack com 19 anos e at
 📌UX/UI: Foco em proporcionar interfaces intuitivas e experiências agradáveis.<br><br>
 Estou sempre aprimorando minhas habilidades e adoro contribuir para o sucesso de projetos inovadores. Se quiser saber mais sobre o meu trabalho, fique à vontade para explorar meus projetos! 🚀<br>
 
-## Socials
+## 🌐Socials
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-matheussilveira.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-da-silveira/)
 
-## My Skills
+## 💻My Skills
 
 **Stacks**
 
