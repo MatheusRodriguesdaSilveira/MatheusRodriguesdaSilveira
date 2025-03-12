@@ -47,7 +47,7 @@ Estou sempre aprimorando minhas habilidades e adoro contribuir para o sucesso de
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 
-## GitHub Stats:
+## 📊GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusRodriguesdaSilveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusRodriguesdaSilveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
