@@ -1,51 +1,37 @@
-## 👨‍💻About Me
-Olá! 👋 Eu sou Matheus Rodrigues, um Desenvolvedor FullStack com 19 anos e atualmente estou em busca de novas oportunidades na área de tecnologia. Tenho experiência prática no desenvolvimento de APIs, criação de sites responsivos e e-commerces otimizados, sempre com foco em oferecer experiências de alta qualidade aos usuários.
+# **👋 Olá, eu sou o Matheus!**
 
-🐱‍👤O que eu faço:<br>
-📌Desenvolvimento Frontend: Criação de interfaces modernas e responsivas com HTML, CSS, JavaScript e React.<br>
-📌Desenvolvimento Backend: Implementação de APIs robustas e escaláveis usando Node.js, Express, e integração com bancos de dados.<br>
-📌E-commerce: Desenvolvimento de plataformas de venda online otimizadas para performance e SEO.<br>
-📌UX/UI: Foco em proporcionar interfaces intuitivas e experiências agradáveis.<br><br>
-Estou sempre aprimorando minhas habilidades e adoro contribuir para o sucesso de projetos inovadores. Se quiser saber mais sobre o meu trabalho, fique à vontade para explorar meus projetos! 🚀<br>
+Sou **Matheus Rodrigues da Silveira**, um Desenvolvedor **FullStack** com 19 anos e atualmente estou estagiando na área de **desenvolvimento de software**, onde aplico as minhas habilidades técnicas e minha experiência como desenvolvedor. Busco continuar aprimorando minhas skills, enquanto contribuo para o sucesso e inovação dos projetos. Tenho experiência prática na criação de APIs, desenvolvimento de sites responsivos e e-commerces otimizados, sempre focado em proporcionar experiências de alta qualidade para os usuários. <br>
+Fique à vontade para explorar meus projetos e conhecer mais sobre meu trabalho! 🚀<br>
 
-## 🌐Socials
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-matheussilveira.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-da-silveira/)
 
-## 💻My Skills
 
-**Stacks**
+## 💡My skills
+
+**⚡Tecnologias**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" />
-  <img src="https://img.shields.io/badge/SQL-333333?style=flat&logo=sql" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma" />
-  <img src="https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm" />
-  <img src="https://img.shields.io/badge/-Drizzle%20ORM-333333?style=flat&logo=drizzle" />
-  <img src="https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis" />
-  <img src="https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod" />
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" />
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,prisma,postgres,redis,jest,react,nextjs,tailwind,css,html" />
 </div>
 
+<br><br>
+
+**⚙Utilidades e Ferramentas**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,docker,git,github,npm,vercel" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Drizzle%20ORM-333333?style=for-the-badge&logo=drizzle" />
+  <img src="https://img.shields.io/badge/-Zod-333333?style=for-the-badge&logo=zod" />
+  <img src="https://img.shields.io/badge/-TypeORM-333333?style=for-the-badge&logo=typeorm" />
+  <img src="https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia" />
+  <img src="https://img.shields.io/badge/-Beekeeper%20Studio-333333?style=for-the-badge&logo=beekeeper&logoColor=F2C230" />
+</p>
 
 
-**Utilidades e Ferramentas**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Beekeeper Studio](https://img.shields.io/badge/-Beekeeper%20Studio-333333?style=flat&logo=beekeeper&logoColor=F2C230)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 
 ## 📊GitHub Stats:
 <div align="center">
@@ -54,6 +40,40 @@ Estou sempre aprimorando minhas habilidades e adoro contribuir para o sucesso de
   <img src="https://streak-stats.demolab.com?user=MatheusRodriguesdaSilveira&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=1&order=3" height="180" alt="streak graph"  />
 </div>
 
-###
+## 🚧 Projetos em destaque
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td align="center" width="50%"> 
+        <a href="https://github.com/MatheusRodriguesdaSilveira/DevBlog-Frontend" target="_blank">DevBlog - Deploy 💻</a> 
+        <br />
+        <sub> Interface desenvolvida com <strong>Next.js</strong>, <strong>Tailwind CSS</strong> e <strong>React</strong>. Conta com autenticação protegida por tokens, gerenciamento de posts, likes, comentários, opção de seguir outros users do blog e design responsivo. 
+        </sub>
+        <a href="https://github.com/MatheusRodriguesdaSilveira/DevBlog-Frontend" target="_blank"> 
+          <img src="https://github.com/user-attachments/assets/e78fbeba-9e5b-464a-8cbf-4efe0233bb65" width="500" height="525" alt="DevBlog Frontend" />
+        </a> 
+      </td> 
+      <td align="center" width="50%"> 
+        <a href="https://github.com/MatheusRodriguesdaSilveira/API-Vendas-Backend" target="_blank"> API de Vendas - Backend 🔧</a>
+        <br />
+        <sub> API desenvolvida com <strong>Node.js</strong>, <strong>Express</strong>, <strong>Prisma</strong> e <strong>PostgreSQL</strong>. Possui rotas para gerenciamento de clientes, produtos, pedidos, com autenticação via JWT e validações robustas com Celebrate. 
+        </sub>
+        <a href="https://github.com/MatheusRodriguesdaSilveira/API-Vendas-Backend" target="_blank"> 
+          <img src="https://github.com/user-attachments/assets/1f246a1b-81cb-4f27-b660-d7a42425070c" width="500" alt="API Vendas" /> 
+        </a>
+      </td> 
+    </tr> 
+  </table> 
+</div>
+
+--- 
+
+<p align="center">
+  <b>"Code com criatividade, desenvolva com paixão!"</b>
+</p>
+
+<p align="center">
+⭐ Se curtir algum projeto, não esquece de deixar uma estrela e me seguir!
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
